@@ -1,8 +1,7 @@
 # 👩🏻‍💻 | Kerolin Michiles
 
-**`Desenvolvedora Frontend`**
+**`Student of Computer`**
 
-Me chamo Kerolin Michiles, tenho 20 anos e sou natural do Amazonas, morando atualmente em Curitiba. Concluí o ensino médio no IFAM, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação na Uninter. 
 
 
 ### 🤖 Linguagens e Tecnologias
